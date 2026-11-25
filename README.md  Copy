@@ -1,0 +1,79 @@
+
+# Video Game Sales Prediction
+
+## Project Overview
+This is a Machine Learning project focused on analyzing video game sales data and predicting video game sales using different Machine Learning algorithms.
+
+The project explores historical video game sales and identifies patterns in the gaming industry.
+
+## Project Objectives
+- Understand and analyze the video game sales dataset.
+- Perform data cleaning and preprocessing.
+- Conduct Exploratory Data Analysis (EDA).
+- Identify patterns and relationships in video game sales.
+- Train Machine Learning models.
+- Evaluate and compare model performance.
+- Predict video game sales using the trained models.
+
+## Dataset
+The project uses the `vgsales.csv` dataset.
+
+The dataset contains information about video games, including:
+- Rank
+- Name
+- Platform
+- Year
+- Genre
+- Publisher
+- North American Sales
+- European Sales
+- Japanese Sales
+- Other Region Sales
+- Global Sales
+
+## Technologies Used
+- Python
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
+- Scikit-learn
+- Jupyter Notebook / Google Colab
+
+## Machine Learning Algorithms
+The project explores the following algorithms:
+1. Linear Regression
+2. Decision Tree
+3. Random Forest
+
+## Project Workflow
+1. Import required libraries.
+2. Load the dataset.
+3. Understand and inspect the data.
+4. Clean and preprocess the dataset.
+5. Perform Exploratory Data Analysis.
+6. Analyze sales patterns.
+7. Prepare features for Machine Learning.
+8. Train different Machine Learning models.
+9. Perform model evaluation.
+10. Compare model performance.
+11. Make sales predictions.
+
+## Model Evaluation
+The project uses model evaluation and cross-validation techniques to assess the performance of the prediction models.
+
+## Project Files
+- `Video_Game_Sales_Prediction.ipynb` — Main project notebook.
+- `vgsales.csv` — Dataset used for analysis and prediction.
+
+## How to Run
+1. Download or clone this repository.
+2. Open the notebook using Jupyter Notebook or Google Colab.
+3. Upload or place the dataset in the required location.
+4. Run the notebook cells in order.
+
+## Conclusion
+This project demonstrates how Machine Learning techniques can be applied to historical video game sales data to analyze trends and predict sales.
+
+---
+**Academic Machine Learning Project**
